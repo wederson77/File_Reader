@@ -1,0 +1,1 @@
+C:\Users\wende\OneDrive\Desktop\topicos_avancados_rust\manipulacao_de_arquivos\target\debug\manipulacao_de_arquivos.exe: C:\Users\wende\OneDrive\Desktop\topicos_avancados_rust\manipulacao_de_arquivos\src\main.rs
